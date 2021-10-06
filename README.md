@@ -17,6 +17,8 @@ Generates text line bounding boxes and their trascription from word bounding box
 <br />
 
 **The final text line annotations and the word annotations are saved as [PAGE-XML files](https://github.com/PRImA-Research-Lab/PAGE-XML).**
+<br />
+![page-xml](/md_images/page-xml.png?raw=true)
 
 
 
