@@ -2,7 +2,11 @@
 Generates text line bounding boxes and their trascription from word bounding boxes and their transcriptions.
 
 
-[VML-HD](http://tc11.cvc.uab.es/datasets/VML-HD_1) dataset provides an XML file that contains the bounding boxes and transcriptison of words.
+[VML-HD](http://tc11.cvc.uab.es/datasets/VML-HD_1) dataset provides an XML file that contains the bounding boxes and transcriptison of words. (This tutorial)[https://majeek.github.io/tutorials/vmlHD/] explains the structure format of the XML file and a script to parse VML-HD dataset.
+
+
+
+
 
 
 
