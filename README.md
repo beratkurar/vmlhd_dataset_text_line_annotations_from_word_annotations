@@ -30,23 +30,23 @@ Generates text line bounding boxes and their trascription from word bounding box
 <br />
 <br />
 **Word cloud of the book 3157556**
-![density_plots](3157556_wordcloud.png.png?raw=true)
+![density_plots](3157556_wordcloud.png?raw=true)
 <br />
 <br />
 **Word cloud of the book 3158466**
-![density_plots](3158466_wordcloud.png.png?raw=true)
+![density_plots](3158466_wordcloud.png?raw=true)
 <br />
 <br />
 **Word cloud of the book 3249138**
-![density_plots](3249138_wordcloud.png.png?raw=true)
+![density_plots](3249138_wordcloud.png?raw=true)
 <br />
 <br />
 **Word cloud of the book 3368132**
-![density_plots](3368132_wordcloud.png.png?raw=true)
+![density_plots](3368132_wordcloud.png?raw=true)
 <br />
 <br />
 **Word cloud of the book 3426930**
-![density_plots](3426930_wordcloud.png.png?raw=true)
+![density_plots](3426930_wordcloud.png?raw=true)
 <br />
 <br />
 
