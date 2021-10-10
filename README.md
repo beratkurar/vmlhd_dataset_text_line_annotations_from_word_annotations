@@ -26,6 +26,12 @@ Generates text line bounding boxes and their trascription from word bounding box
 ![density_plots](all_density_horizontal.png?raw=true)
 <br />
 <br />
+**This repository generates VML-HD dataset statistics:**
+<br />
+<br />
+[VML-HTR dataset statistics](vml_word_line_stats.txt?raw=true)
+<br />
+<br />
 **This repository generates VML-HD dataset word clouds:**
 <br />
 <br />
