@@ -1,0 +1,55 @@
+
+
+ STATISTICS OF THE BOOK 3249138
+number_of_pages: 101
+number_of_lines: 1414
+number_of_words: 27274
+number_of_classes: 2539
+avg_number_of_words_per_page: 270.03960396039605
+avg_number_of_lines_per_page: 14.0
+avg_number_of_words_per_line: 19.28854314002829
+avg_number_of_words_classes: 10.742024419062624
+
+
+ STATISTICS OF THE BOOK 3157556
+number_of_pages: 196
+number_of_lines: 1656
+number_of_words: 28671
+number_of_classes: 2471
+avg_number_of_words_per_page: 146.28061224489795
+avg_number_of_lines_per_page: 8.448979591836734
+avg_number_of_words_per_line: 17.31340579710145
+avg_number_of_words_classes: 11.602994738972075
+
+
+ STATISTICS OF THE BOOK 3158466
+number_of_pages: 136
+number_of_lines: 2022
+number_of_words: 34791
+number_of_classes: 2751
+avg_number_of_words_per_page: 255.81617647058823
+avg_number_of_lines_per_page: 14.867647058823529
+avg_number_of_words_per_line: 17.206231454005934
+avg_number_of_words_classes: 12.646673936750272
+
+
+ STATISTICS OF THE BOOK 3426930
+number_of_pages: 140
+number_of_lines: 1596
+number_of_words: 31697
+number_of_classes: 3200
+avg_number_of_words_per_page: 226.40714285714284
+avg_number_of_lines_per_page: 11.4
+avg_number_of_words_per_line: 19.86027568922306
+avg_number_of_words_classes: 9.9053125
+
+
+ STATISTICS OF THE BOOK 3368132
+number_of_pages: 94
+number_of_lines: 1860
+number_of_words: 35456
+number_of_classes: 1770
+avg_number_of_words_per_page: 377.1914893617021
+avg_number_of_lines_per_page: 19.78723404255319
+avg_number_of_words_per_line: 19.06236559139785
+avg_number_of_words_classes: 20.031638418079098
