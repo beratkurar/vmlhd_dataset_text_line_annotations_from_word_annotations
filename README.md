@@ -19,7 +19,36 @@ Generates text line bounding boxes and their trascription from word bounding box
 **The final text line annotations and the word annotations are saved as [PAGE-XML files](https://github.com/PRImA-Research-Lab/PAGE-XML).**
 <br />
 ![page-xml](/md_images/page-xml.png?raw=true)
-
+<br />
+<br />
+**This repository generates VML-HD dataset density plots:**
+<br />
+![density_plots](all_density_horizontal.png?raw=true)
+<br />
+<br />
+**This repository generates VML-HD dataset word clouds:**
+<br />
+<br />
+**Word cloud of the book 3157556**
+![density_plots](3157556_wordcloud.png.png?raw=true)
+<br />
+<br />
+**Word cloud of the book 3158466**
+![density_plots](3158466_wordcloud.png.png?raw=true)
+<br />
+<br />
+**Word cloud of the book 3249138**
+![density_plots](3249138_wordcloud.png.png?raw=true)
+<br />
+<br />
+**Word cloud of the book 3368132**
+![density_plots](3368132_wordcloud.png.png?raw=true)
+<br />
+<br />
+**Word cloud of the book 3426930**
+![density_plots](3426930_wordcloud.png.png?raw=true)
+<br />
+<br />
 
 
 
