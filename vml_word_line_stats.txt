@@ -53,3 +53,11 @@ avg_number_of_words_per_page: 377.1914893617021
 avg_number_of_lines_per_page: 19.78723404255319
 avg_number_of_words_per_line: 19.06236559139785
 avg_number_of_words_classes: 20.031638418079098
+
+ TOTAL STATISTICS OF THE BOOKS
+
+ TOTAL STATISTICS OF THE BOOKS
+total number_of_pages: 667
+total number_of_lines: 8548
+total number_of_words: 157889
+total number_of_classes: 6217
